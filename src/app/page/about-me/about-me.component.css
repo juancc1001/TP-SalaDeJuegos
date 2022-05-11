@@ -1,0 +1,71 @@
+body{
+    background-color: #7894f8;
+    width: 100%;
+    height: 100%;
+    font-weight: 500;
+    color:rgb(35, 35, 35);
+    padding-bottom: 20px;
+}
+
+h1{
+    padding: 10px;
+}
+
+h2{
+    padding: 10px;
+}
+
+span{
+    font-weight: 700;
+}
+
+p{
+    padding-left: 10px;
+}
+
+img{
+    border-radius: 40px;
+}
+
+.main-div{
+    display: flex;
+    background-color:whitesmoke;
+}
+
+.desc-juego-div{
+    display: flex;
+}
+
+.main-div{
+    padding: 10px;
+}
+
+.info-div{
+    width: 70%;
+}
+
+.title-div{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:#7f7df8
+}
+
+.second-line{
+    padding-left: 60px !important;
+}
+
+.desc-juego-div{
+    display: flex;
+    flex-direction: column;
+}
+
+.game-header{
+    margin: auto;
+    padding-bottom: 20px;
+}
+
+.instrucciones-img{
+    margin: auto;
+    width: 35vw;
+    height: 85vh;
+    border-radius: 20px;
+}
